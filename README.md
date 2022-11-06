@@ -1,6 +1,4 @@
 # NormalizingFlows
-Radial Flow and Maximum Likelihood Training
-
 TUM Summer Term 2022
 
 Machine Learning for Graphs and Sequential Data
